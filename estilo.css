@@ -1,0 +1,9 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color:red;
+    background-color: black;
+    border: 4px dotted yellow;
+}
